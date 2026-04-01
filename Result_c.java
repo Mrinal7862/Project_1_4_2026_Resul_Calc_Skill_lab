@@ -43,7 +43,7 @@ public class Result_c {
             System.out.println("Fail");
         }
 
-        System.out.println("\n");
+        System.out.println("");
         // Bonus Taks: Count subject above 75 & below 40 and display them
 
         for (int i = 0; i < marks.length; i++) {
